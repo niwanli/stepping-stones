@@ -43,3 +43,8 @@ Stepping-Stones to Fame and Fortune
 
 如果一个人找到合适的工作，他将是幸福快乐的，他会兴高采烈而又精力充沛、富于创造力。每一天对他来说都太短。他全部的才能都欣然听命于工作；人们都对他的工作点头称是。他成为真正的人；他尊敬自己并因自己的才能得以尽情施展而感到幸福。他的能力可以尽情释放：他的法律天赋不会埋没于农场；他滔滔不绝的雄辩能力不会消磨在鞋匠的板凳上；在可爱的乡村，看着金黄色的庄稼和纯种的牛群，他充沛的体力有了用武之地，而不是在牧师枯燥的书房中，绞尽脑汁地编造令教众昏昏欲睡的布道文。
 
+## Open the Door
+
+If you want to enter another room to explore the treasure you are looking for, you can open the door by clicking at [https://niwanli.github.io/](https://niwanli.github.io/ "Wanli | Home"). Or, if you want to contact me, please email me at **niwanli@yahoo.com**.
+
+
