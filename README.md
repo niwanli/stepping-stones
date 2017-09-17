@@ -45,6 +45,6 @@ Stepping-Stones to Fame and Fortune
 
 ## Open the Door
 
-If you want to enter another room to explore the treasure you are looking for, you can open the door by clicking at [https://niwanli.github.io/](https://niwanli.github.io/ "Wanli | Home"). Or, if you want to contact me, please email me at **niwanli@yahoo.com**.
+If you want to enter another room to explore the treasure you are looking for, you can open the door by clicking at **[https://niwanli.github.io/](https://niwanli.github.io/ "Wanli | Home")**. Or, if you want to contact me, please email me at **niwanli@yahoo.com**.
 
 
